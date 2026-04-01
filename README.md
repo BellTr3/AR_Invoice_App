@@ -73,6 +73,8 @@ A notification appears: *"AR Invoice created in ERP Cloud successfully"* along w
 
 After a successful submit, the invoice list refreshes and the submitted record's status changes to **Completed** with the Transaction Number populated — confirming the record is live in Oracle.
 
+<img src="Scrrenshots/p-1.14.png"/>
+
 ---
 
 ### 8. Verification in Oracle Fusion Cloud
@@ -89,6 +91,10 @@ The app uses **VBCS Business Objects** as its local data layer to store and mana
 
 <img src="Scrrenshots/p-1.10.png"/>
 
+<img src="Scrrenshots/p-1.15.png"/>
+
+<img src="Scrrenshots/p-1.15.1.png"/>
+
 ---
 ## Service Connections
 
@@ -102,5 +108,7 @@ The app uses **VBCS Business Objects** as its local data layer to store and mana
 All connections point to Oracle's standard FSCM REST API endpoints and are secured using Oracle credentials configured at the VBCS backend level.
 
 <img src="Scrrenshots/p-1.11.png"/>
+
+<img src="Scrrenshots/p-1.16.png"/>
 
 ---

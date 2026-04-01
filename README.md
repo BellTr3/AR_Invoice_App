@@ -57,10 +57,12 @@ Clicking **Create Line** opens a blank line form with fields for Product, Descri
 
 <img src="Scrrenshots/p-1.17.1.png"/>
 
-- **Description** — auto-filled based on selected product
-- **Unit Selling Price** — auto-filled with the product's price (e.g., $2,000.00)
+<img src="Scrrenshots/p-1.12-product.png"/>
 
 <img src="Scrrenshots/p-1.17.2.png"/>
+
+- **Description** — auto-filled based on selected product
+- **Unit Selling Price** — auto-filled with the product's price (e.g., $2,000.00)
 
 When the user enters the **Quantity**, the **Line Total** is automatically calculated:
 > Quantity × Unit Selling Price = Line Total (e.g., 4 × $2,000.00 = $8,000.00)
